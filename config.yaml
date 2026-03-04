@@ -1,0 +1,6 @@
+clickhouse:
+  host: "localhost"
+  port: 9000
+  database: "watchdog"
+  username: "default"
+  password: ""
